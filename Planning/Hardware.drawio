@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Yu2Rz-5dotqBiI_etyf0" name="Page-1">
-        <mxGraphModel dx="581" dy="407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="697" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -44,11 +44,11 @@
                 <mxCell id="18" value="20Ah Battery" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
                     <mxGeometry x="37" y="517" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="178" target="22" edge="1">
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="177" target="22" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="430.0000000000002" y="588" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="456" y="754"/>
+                            <mxPoint x="456" y="724"/>
                             <mxPoint x="458" y="522"/>
                         </Array>
                     </mxGeometry>
@@ -163,10 +163,10 @@
                 <mxCell id="118" value="USB port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="649" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="141" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#666666;strokeWidth=1;fontSize=8;startArrow=none;startFill=0;fillColor=#f5f5f5;" parent="1" source="177" edge="1">
+                <mxCell id="141" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#666666;strokeWidth=1;fontSize=8;startArrow=none;startFill=0;fillColor=#f5f5f5;" parent="1" source="178" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="469" y="724"/>
+                            <mxPoint x="467" y="754"/>
                         </Array>
                         <mxPoint x="469" y="362" as="targetPoint"/>
                     </mxGeometry>
@@ -186,7 +186,7 @@
                         <mxPoint x="295" y="742" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="&lt;font style=&quot;&quot;&gt;Aiwa AWS-SP-01 Speaker&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="22" value="&lt;font style=&quot;&quot;&gt;OEM 10W Speaker&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="581.5" y="502" width="160" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="146" value="DFRobot DS-R005 Servo motors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
@@ -272,10 +272,10 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="177" value="AIN port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="177" value="USB port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="709" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="178" value="AOUT port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="178" value="AIN port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="739" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="179" style="edgeStyle=none;html=1;exitX=1;exitY=0.813;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#666666,#FFFFFF);strokeWidth=1;fontSize=8;startArrow=none;startFill=0;fillColor=#f5f5f5;exitPerimeter=0;" parent="1" source="19" target="177" edge="1">
@@ -350,7 +350,7 @@
                 <mxCell id="195" value="Waveshare Pico Servo Driver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
                     <mxGeometry x="295" y="149.5" width="120" height="36.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="197" value="&lt;font style=&quot;&quot;&gt;SVPRO 1080P 60FPS Dual&amp;nbsp; Camera M12 Lens&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="197" value="&lt;font style=&quot;&quot;&gt;1080p 120FOV Camera with Microphone&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="581.5" y="542" width="160" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="199" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;" parent="1" source="119" target="157" edge="1">
