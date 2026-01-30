@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Yu2Rz-5dotqBiI_etyf0" name="Page-1">
-        <mxGraphModel dx="599" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="502" dy="453" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -28,18 +28,22 @@
                 <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="24" y="476" width="346" height="414" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" parent="1" source="210" target="19" edge="1">
+                <mxCell id="31" style="edgeStyle=none;html=1;exitX=0.623;exitY=0.015;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;exitPerimeter=0;" parent="1" source="210" target="19" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="198" y="633"/>
+                            <mxPoint x="217" y="633"/>
                             <mxPoint x="123" y="633"/>
                             <mxPoint x="123" y="766"/>
                         </Array>
                         <mxPoint x="196.25" y="600" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="221" style="edgeStyle=none;html=1;exitX=0.882;exitY=0.01;exitDx=0;exitDy=0;entryX=0.808;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=none;endFill=0;exitPerimeter=0;" edge="1" parent="1" source="18" target="208">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="221" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=none;endFill=0;" parent="1" source="18" target="208" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="180" y="538"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="18" value="30Ah PD powerbank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
                     <mxGeometry x="37" y="517" width="120" height="42" as="geometry"/>
@@ -211,7 +215,7 @@
                 <mxCell id="187" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B20000;fontSize=13;endArrow=classic;endFill=1;fillColor=#a20025;strokeWidth=2;" parent="1" source="205" target="181" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="229" y="653"/>
+                            <mxPoint x="236" y="652"/>
                             <mxPoint x="74" y="653"/>
                         </Array>
                         <mxPoint x="216.5" y="600" as="sourcePoint"/>
@@ -220,7 +224,7 @@
                 <mxCell id="203" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeColor=#B20000;strokeWidth=2;" parent="1" source="205" target="4" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="242" y="227"/>
+                            <mxPoint x="249" y="227"/>
                         </Array>
                         <mxPoint x="247.84699999999998" y="560.8" as="sourcePoint"/>
                     </mxGeometry>
@@ -273,10 +277,10 @@
                 <mxCell id="189" value="14-inch HDMI Display" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
                     <mxGeometry x="38" y="846" width="97" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="190" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;entryX=0.787;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="205" edge="1" target="188">
+                <mxCell id="190" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;entryX=0.787;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="205" target="188" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="240" y="673"/>
+                            <mxPoint x="246" y="671"/>
                             <mxPoint x="113" y="671"/>
                             <mxPoint x="114" y="777"/>
                         </Array>
@@ -320,14 +324,14 @@
                 <mxCell id="202" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;LED Strips&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
                     <mxGeometry x="601.5" y="845" width="120" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="212" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="204" target="210">
+                <mxCell id="212" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.825;entryY=0.004;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=none;endFill=0;entryPerimeter=0;" parent="1" source="204" target="210" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="188" y="586"/>
+                            <mxPoint x="208" y="586"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="217" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="204" target="214">
+                <mxCell id="217" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=none;endFill=0;" parent="1" source="204" target="214" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="27" y="586"/>
@@ -335,43 +339,43 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="204" value="30Ah PD powerbank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                <mxCell id="204" value="30Ah PD powerbank" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
                     <mxGeometry x="37" y="565" width="120" height="42" as="geometry"/>
                 </mxCell>
-                <mxCell id="207" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#B20000;strokeWidth=2;entryX=0.975;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="205" target="26">
+                <mxCell id="207" style="edgeStyle=none;html=1;exitX=0.633;exitY=1.012;exitDx=0;exitDy=0;strokeColor=#B20000;strokeWidth=2;entryX=0.975;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="205" target="26" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="252" y="681" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="205" value="USB Hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="219" y="514.5" width="46" height="47" as="geometry"/>
+                <mxCell id="205" value="USB Hub" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="226" y="514.5" width="46" height="47" as="geometry"/>
                 </mxCell>
-                <mxCell id="223" style="edgeStyle=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=classic;endFill=1;" edge="1" parent="1" source="208" target="205">
+                <mxCell id="223" style="edgeStyle=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=classic;endFill=1;" parent="1" source="208" target="205" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="167" y="538"/>
+                            <mxPoint x="192" y="539"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="208" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Switch&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-                    <mxGeometry x="135" y="476" width="42" height="24" as="geometry"/>
+                <mxCell id="208" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Switch&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="161" y="476" width="42" height="24" as="geometry"/>
                 </mxCell>
-                <mxCell id="210" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Switch&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-                    <mxGeometry x="179" y="476" width="42" height="24" as="geometry"/>
+                <mxCell id="210" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Switch&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+                    <mxGeometry x="203" y="476" width="42" height="24" as="geometry"/>
                 </mxCell>
-                <mxCell id="220" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="214" target="18">
+                <mxCell id="220" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;fontSize=10;endArrow=none;endFill=0;" parent="1" source="231" target="18" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="214" value="USB-C port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="67" y="476" width="60" height="30" as="geometry"/>
+                <mxCell id="214" value="USB-C port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="37" y="476" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="225" value="USB port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="225" value="USB port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="649" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="226" value="USB port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="226" value="USB port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="679" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="227" style="edgeStyle=none;html=1;exitX=0.998;exitY=0.957;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#666666,#FFFFFF);strokeWidth=1;fontSize=8;startArrow=none;startFill=0;fillColor=#f5f5f5;exitPerimeter=0;" edge="1" parent="1" source="19" target="177">
+                <mxCell id="227" style="edgeStyle=none;html=1;exitX=0.998;exitY=0.957;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#666666,#FFFFFF);strokeWidth=1;fontSize=8;startArrow=none;startFill=0;fillColor=#f5f5f5;exitPerimeter=0;" parent="1" source="19" target="177" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="298" y="808"/>
@@ -381,11 +385,14 @@
                         <mxPoint x="320" y="766" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="228" value="USB port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="228" value="USB port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="801" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="229" value="M/K Dongle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="229" value="M/K Dongle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="370" y="803" width="51" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="231" value="USB-C port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="97" y="476" width="60" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
